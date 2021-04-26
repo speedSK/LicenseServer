@@ -28,7 +28,7 @@
 		<junit>4.12</junit>
 		<!-- Apache Commons系列公共库 -->
 		<commons-lang3>3.7</commons-lang3>
-		<commons-io>2.6</commons-io>
+		<commons-io>2.7</commons-io>
 		<commons-codec>1.11</commons-codec>
 		<!-- Apache HttpClient -->
 		<httpclient>4.5.5</httpclient>
